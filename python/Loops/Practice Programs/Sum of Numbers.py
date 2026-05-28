@@ -1,7 +1,7 @@
-total = 0
+total = 0 #1 3
 
-for i in range(1, 11):
-    total += i
+for i in range(1, 11):  #1 10
+    total += i   # 1 +=2 = 3
 
 print(total)
 

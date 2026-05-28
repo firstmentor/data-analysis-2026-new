@@ -1,7 +1,7 @@
 age = 20
 license = True
 
-if age >= 18:
+if age >= 78:
     if license:
         print("Can Drive")
     else:

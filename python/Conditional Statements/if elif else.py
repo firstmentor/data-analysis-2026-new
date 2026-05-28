@@ -1,4 +1,4 @@
-marks = 75
+marks = 50
 
 if marks >= 90:
     print("A Grade")

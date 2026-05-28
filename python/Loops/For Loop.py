@@ -1,4 +1,5 @@
-# Jab hume pehle se pata ho ki loop kitni baar chalega, tab hum for loop use karte hain.
+# Jab hume pehle se pata ho ki loop kitni baar chalega, 
+# tab hum for loop use karte hain.
 
 # for variable in sequence:
 #     code
@@ -9,8 +10,8 @@
 # Jab hume pehle se pata ho loop kitni baar chalega.
 
 
-for i in range(5):
-    print(i)
+# for i in range(5):
+#     print(i)
 
 
 
@@ -18,7 +19,7 @@ for i in range(5):
 
 # range() numbers ki sequence generate karta hai.
 
-for i in range(5):  #
+for i in range(5):  # 0 4 start stop
     print(i)
 
 
@@ -35,15 +36,24 @@ for i in range(10, 0, -1):  # -1 ka matlab reverse direction.
 
 
 # Strings ko iterate karna
-for char in "Python":    #String is a sequence of characters.
-    print(char)
+for c in "vikas jain":    #String is a sequence of characters.
+    print(c)
 
 
 # List Par Loop
 
 #List ke har item ko access karne ke liye loop use karte hain.
 
-fruits = ["Apple", "Mango", "Banana"]
+fruits = ["Apple", "Mango", "Banana"] #list
 
-for fruit in fruits:
-    print(fruit)
+
+# for f in fruits:
+#     print(f)
+
+# print(len(fruits)) 
+
+
+# i = 0
+# while i < len(fruits):
+#     print(fruits[i])
+#     i +=1
