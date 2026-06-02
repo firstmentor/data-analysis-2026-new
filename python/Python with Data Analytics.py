@@ -4,7 +4,7 @@
 
 # Python Basics
 # Variables
-# Data Types
+# Data Types    
 # Operators
 # Conditional Statements
 # Loops
